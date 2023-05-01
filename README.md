@@ -7,11 +7,11 @@ I used four different python programs to analyze this data: `map.py`, `reduce.py
 **Coronavirus Hashtags by Country of Origin**
 
 
-<img src=coronavirus_country.png width=100% />
+<img src=coronavirus_country.png width=95% />
 
 **Coronavirus Hashtags by Language**
 
-<img src=coronavirus_lang.png width=95% />
+<img src=coronavirus_lang.png width=94% />
 
 **코로나바이러스Hashtags by Language**
 
