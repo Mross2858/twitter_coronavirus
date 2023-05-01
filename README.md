@@ -15,10 +15,10 @@ I used four different python programs to analyze this data: `map.py`, `reduce.py
 
 **코로나바이러스Hashtags by Language**
 
-<img src=코로나바이러_lang.png width=95% />
+<img src=코로나바이러스_lang.png width=95% />
 
 **코로나바이러스Hashtags by Origin**
-<img src=코로나바이러_origin.png width=95% />
+<img src=코로나바이러스_country.png width=95% />
 
 
 **Alternative.reduce (Combination of Reduce and Visualize)**
