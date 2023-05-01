@@ -17,7 +17,7 @@ I used four different python programs to analyze this data: `map.py`, `reduce.py
 
 <img src=코로나바이러스_lang.png width=95% />
 
-**코로나바이러스Hashtags by Origin**
+**코로나바이러스 Hashtags by Country**
 <img src=코로나바이러스_country.png width=95% />
 
 
