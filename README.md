@@ -24,5 +24,5 @@ I used four different python programs to analyze this data: `map.py`, `reduce.py
 **Alternative.reduce (Combination of Reduce and Visualize)**
 For the `alternative_reduce.py` portion of the project, I combined the structures of reduce and visualize into one file which would take different words as keys to compare their usages in tweets from 2020. For this particular graph I compared the use of #covid19, #coronavirus, #PPE, and #nurse.
 
- <img src=covid19_coronavirus_PPE_nurse.png width=95% />
+ <img src=coronavirus_covid19_PPE_nurse.png width=95% />
 
